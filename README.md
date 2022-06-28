@@ -1,4 +1,4 @@
 # DSA-Questions-Practice
-## Topic wise folder find..!!
+## Topic wise folder find...!!
 
 ## Happy coding ❤
